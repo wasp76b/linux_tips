@@ -4,11 +4,11 @@ change keybord to BR language</br>
 #setxkbmap -model abnt2 -layout br -variant abnt2
 
 change bash</br>
-#vim /root/.bashrc
+#vim /root/.bashrc</br>
 #source /root/.bashrc
 
 change zsh</br>
-#source ~/.zshrc
+vim /root/.zshrc</br>
 #source /root/.zshrc
 
 adding path golang in bash/zsh</br>
